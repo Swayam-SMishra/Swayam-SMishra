@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayam-SMishra&hide=prs,issues,contribs&show_icons=true&theme=jolly&border_color=a960ff&border_radius=28&bg_color=25,191622,151A28,291B3E,191622)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Swayam-SMishra/Swayam-SMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
